@@ -1,0 +1,11 @@
+IniFile = 0, 0, 0, 0, C
+CSocketMaster = 0, 0, 0, 0, C
+frmMain = 44, 44, 590, 461, Z, 22, 22, 568, 439, C
+frmAbout = 0, 0, 0, 0, C, 110, 110, 656, 527, C
+frmBlast = 154, 154, 678, 575, , 132, 132, 678, 549, C
+modSocketMaster = 0, 0, 0, 0, C
+modCodeGen = 110, 110, 634, 554, 
+modGlobal = 88, 88, 634, 505, 
+modLang = 66, 66, 612, 483, 
+modBlaster = 88, 88, 612, 532, 
+frmShowCode = 198, 198, 722, 619, , 0, 0, 524, 421, C

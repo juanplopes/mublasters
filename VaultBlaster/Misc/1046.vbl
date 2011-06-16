@@ -1,0 +1,92 @@
+[info]
+name=Português do Brasil
+
+[strings]
+string000=.
+string001=Este item precisa ser level
+string002=O level foi corrigido.
+string003=Aviso
+string004=Erro adicionando o item.
+string005=Motivo: não há espaço em volta da célula selecionada.
+string006=Motivo: não há espaço para adicionar o item.
+string007=Erro
+string008=Erro colando o item.
+string009=Level:
+string010=Options:
+string011=Dur/Quant:
+string012=Exc Options:
+string013=Código:
+
+string014=Não foi possível blastar.
+string015=Erro durante a operação.
+string016=Número:
+string017=Descrição (inglês):
+string018=e
+string019=Campo(s) requerido(s)
+string020=
+string021=Erro
+string022=Endereço inválido
+string023=Conectando...
+string024=Abortado.
+string025=Operação abortada.
+string026=Abortado
+string027=Enviando string...
+string028=SocketEngine Inicializada.
+string029=Tudo parece ok.
+
+string030=Erro carregando biblioteca.
+string031=Motivo: biblioteca não encontrada.
+string032=Motivo: biblioteca inválida.
+string033=Erro
+
+string101=Incrementa Mana na Caça +Mana/8\crlf\Incrementa Zen na Caça +40%
+string102=Incrementa Life na Caça +Life/8\crlf\Taxa de Sucesso de Defesa +10%
+string103=Incrementa Vel. de Ataque/Magia +7\crlf\Reflete Dano 5%
+string104=Incrementa Dano +2%\crlf\Diminui Dano Sofrido -4%
+string105=Incrementa Dano +Level/20\crlf\Incrementa Mana +4%
+string106=Taxa de Dano Excelente +10%\crlf\Incrementa Life +4%
+
+[frmMain]
+cmdAdd=Adicionar
+cmdRemove=Remover
+cmdUpdate=Atualizar
+cmdReset=Reiniciar
+cmdBlast=Blastar!!!
+cmdAbout=Sobre
+
+cmdFullOpt_15_7=Full +15+7
+cmdFullOpt_11_4=Full +11+4
+cmdNoOpt=Sem Option
+lblOption1=Level:
+lblOption2=Dur/Quant:
+lblOption3=Option:
+lblInventory1=Zen
+lblMain1=Idioma:
+
+[frmBlast]
+caption=Algoritmo VBlaster
+lblInfo1=Endereço:
+lblInfo2=Data Port:
+lblInfo3=Usuário:
+lblInfo4=Zen (Hexa):
+lblInfo5=Itens (Hexa):
+lblInfo6=Pode ser domínio
+lblInfo7=Padrão: 55960
+lblInfo8=Máximo: 10 chars
+lblBlast1=Status
+cmdBlast=Blastar!!!
+cmdCancel=Cancelar
+
+[frmShowCode]
+caption=Código do Blaster
+cmdClose=Fechar
+optShowMode(0)=Hexadecimal
+optShowMode(1)=Decimal
+
+[frmAbout]
+caption=Sobre
+lblAbout1=Desenvolvido por
+lblAbout2=O algoritmo do ItemCode é baseado (porém não copiado) no código fonte do ItemProject. Não sei quem o fez, mas obrigado!
+lblAbout3=Obrigado a(o) Kqikz, que me ajudou a entender o algoritmo vaultblaster me enviando seu programa.
+lblAbout4=Este programa tem apenas fins educacionais. Qualquer outro uso é de sua inteira responsabilidade.
+lblHelp1=Gostou do programa? Preciso de sua ajuda para melhorá-lo. Se você conhece servers blastáveis ou tem idéias de como passar pelos firewalls, me mande um email. Você será o primeiro a receber novas versões do programa.

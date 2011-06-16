@@ -1,0 +1,12 @@
+IniFile = 44, 44, 568, 465, C
+CSocketMaster = 18, 24, 542, 445, C
+frmMain = 154, 154, 700, 571, , 44, 44, 590, 461, C
+frmBlast = 176, 176, 700, 597, , 88, 88, 634, 505, C
+frmInventory = 88, 91, 633, 505, , 66, 66, 612, 483, C
+frmAbout = 66, 66, 723, 339, C, 132, 132, 678, 549, C
+modSocketMaster = 44, 44, 568, 465, 
+modCodeGen = 132, 132, 656, 553, 
+modGlobal = 44, 44, 590, 461, 
+modLang = 22, 22, 568, 439, 
+modBlaster = 154, 154, 678, 575, Z
+frmShowCode = 88, 88, 612, 509, C, 66, 66, 590, 487, C

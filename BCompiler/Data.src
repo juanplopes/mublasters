@@ -1,0 +1,435 @@
+#0,Swd
+#1,Axe
+#2,Mace
+#3,Spear
+#4,Bow
+#5,Staff
+#6,Shield
+#7,Helm
+#8,Armor
+#9,Pants
+#10,Gloves
+#11,Boots
+#12,0,2,Wings lvl1
+#12,3,6,Wings lvl2
+#12,7,14,Orb
+#12,15,15,Jwl
+#12,16,20,Orb
+#12,21,24,Spell
+#13,0,5,Pet
+#13,5,31,Other
+#14,0,9,Pot
+#14,10,10,TT
+#14,11,12,Box
+#14,13,16,Jwl
+#14,17,21,Other
+#14,22,22,Jwl
+#14,23,31,Other
+#15,Scroll
+~0,n
+~1,nw
+~2,w
+~3,sw
+~4,s
+~5,se
+~6,e
+~7,ne
+@0,133,118,Lorencia
+@1,107,247,Dungeon1
+@1,231,126,Dungeon2 
+@1,3,83,Dungeon3
+@2,197,35,Devias
+@3,171,108,Noria
+@4,203,70,L.Tower1
+@4,241,237,L.Tower2
+@4,86,166,L.Tower3
+@4,87,86,L.Tower4
+@4,128,53,L.Tower5
+@4,52,53,L.Tower6
+@4,8,85,L.Tower7
+@6,72,140,Arena
+@6,60,120,Stadium
+@7,14,11,Atlans
+@8,187,54,Tarkan
+@9,133,91,D.Square1
+@9,135,162,D.Square2
+@9,62,150,D.Square3
+@9,66,84,D.Square4
+@10,14,13,Icarus
+@11,12,5,B.Castle1
+@12,12,5,B.Castle2
+@13,12,5,B.Castle3
+@14,12,5,B.Castle4
+@15,12,5,B.Castle5
+@16,12,5,B.Castle6
+%0,Dark Wizard
+%1,Soul Master
+%16,Dark Knight
+%17,Blade Knight
+%32,Elf
+%33,Muse Elf
+%48,M. Gladiator
+%64,Dark Lord
+7,21,Flaming Phoenix Helm,2,2,0,0
+8,21,Flaming Phoenix Armor,2,3,0,0
+9,21,Flaming Phoenix Pants,2,2,0,0
+10,21,Flaming Phoenix Gloves,2,2,0,0
+11,21,Flaming Phoenix Boots,2,2,0,0
+8,23,Hurricane Armor,2,3,0,0
+9,23,Hurricane Pants,2,2,0,0
+10,23,Hurricane Gloves,2,2,0,0
+11,23,Hurricane Boots,2,2,0,0
+7,22,Dark Side Helm,2,2,0,0
+8,22,Dark Side Armor,2,3,0,0
+9,22,Dark Side Pants,2,2,0,0
+10,22,Dark Side Gloves,2,2,0,0
+11,22,Dark Side Boots,2,2,0,0
+7,27,Magus Mask,2,2,0,0
+8,27,Magus Armor,2,2,0,0
+9,27,Magus Pants,2,2,0,0
+10,27,Magus Gloves,2,2,0,0
+11,27,Magus Boots,2,2,0,0
+7,28,Adamantine Mask,2,2,0,0
+8,28,Adamantine Armor,2,3,0,0
+9,28,Adamantine Pants,2,2,0,0
+10,28,Adamantine Gloves,2,2,0,0
+11,28,Adamantine Boots,2,2,0,0
+7,24,Nature Helm,2,2,0,0
+8,24,Nature Armor,2,2,0,0
+9,24,Nature Pants,2,2,0,0
+10,24,Nature Gloves,2,2,0,0
+11,24,Nature Boots,2,2,0,0
+7,25,Embroided Mask,2,2,0,0
+8,25,Embroided Armor,2,2,0,0
+9,25,Embroided Pants ,2,2,0,0
+10,25,Embroided Gloves,2,2,0,0
+11,25,Embroided Boots,2,2,0,0
+7,26,Storm Helm,2,2,0,0
+8,26,Storm Armor,2,2,0,0
+9,26,Storm Pants,2,2,0,0
+10,26,Storm Gloves,2,2,0,0
+11,26,Storm Boots,2,2,0,0
+12,0,Fairy Wings,3,2,0,0
+12,1,Angel Wings,5,3,0,0
+12,2,Satan Wings,5,2,0,0
+12,3,Butterfly Wings 2,5,3,0,0
+12,4,ArchAngel Wings 2,5,3,0,0
+12,5,Devil Wings 2,3,4,0,0
+12,6,Dark Wings 2,4,2,0,0
+13,30,Cape of Lord,2,3,0,0
+14,19,Devil Square Invitation,1,2,0,0
+0,0,Kris,1,2,0,0
+0,1,Short Sword,1,3,0,0
+0,2,Rapier,1,3,0,0
+0,3,Katache,1,3,0,0
+0,4,Scimitar,1,3,0,0
+0,5,Blade,1,3,0,0
+0,6,Gladius,1,3,0,0
+0,7,Falchion,1,3,0,0
+0,8,Serpent Borg,1,3,0,0
+0,9,Salamander Sword,2,3,0,0
+0,10,Light Sabre,2,4,0,0
+0,11,Legendary Sword,2,3,0,0
+0,12,Heliacal Sword,2,3,0,0
+0,13,Double Blade,1,3,0,0
+0,14,Lightning Sword,1,3,0,0
+0,15,Giant Sword,2,3,0,0
+0,16,Sword of Destruction,1,4,0,0
+0,17,Spirit Sword,2,4,0,0
+0,18,Thunder Sword,2,3,0,0
+0,19,Archangel Sword,1,4,0,0
+0,20,Blade of Devourer,1,4,0,0
+0,21,Double Sided Blunt Sword,2,4,0,0
+0,31,Deathbroad,2,4,0,0
+2,7,Elemental Mace,1,3,0,0
+2,8,Skeleton Mace,1,3,0,0
+2,9,Slayer's Mace,1,3,0,0
+2,10,Stalker's Mace,1,3,0,0
+2,11,Mace of Gimli,1,3,0,0
+2,13,Mace of King,1,3,0,0
+2,12,Phantom Mace,1,4,0,0
+1,0,Small Axe,1,3,0,0
+1,1,Hand Axe,1,3,0,0
+1,2,Double Axe,1,3,0,0
+1,3,Tomahawk,1,3,0,0
+1,4,Fairy Axe,1,3,0,0
+1,5,Battle Axe,2,3,0,0
+1,6,Nikea Axe,2,3,0,0
+1,7,Larkan Axe,2,3,0,0
+1,8,Crescent Axe,2,3,0,0
+2,0,Mace,1,3,0,0
+2,1,Morningstar,1,3,0,0
+2,2,Iron Hammer,1,3,0,0
+2,3,Great Hammer,2,3,0,0
+2,4,Crystal Mace,2,4,0,0
+2,5,Crystal Sword,2,4,0,0
+2,6,Chaos Dragon Axe,2,4,0,0
+3,0,Light Spear,2,4,0,0
+3,1,Spear,2,4,0,0
+3,2,Dragon Lance,2,4,0,0
+3,3,Big Pike,2,4,0,0
+3,4,Serpent Spear,2,4,0,0
+3,5,Double Halberd,2,3,0,0
+3,6,Halberd,2,4,0,0
+3,7,Bardiche,2,4,0,0
+3,8,Great Scythe,2,4,0,0
+3,9,Bill of Balrog,2,4,0,0
+3,10,Dragon Spear,2,4,0,0
+4,0,Shortbow,2,3,0,0
+4,1,Bow,2,3,0,0
+4,2,Fairy Bow,2,3,0,0
+4,3,Battle Bow,2,3,0,0
+4,4,Tiger Bow,2,4,0,0
+4,5,Silver Bow,2,4,0,0
+4,6,Chaos Nature Bow,2,4,0,0
+4,7,Arrows,1,1,0,0
+4,8,Crossbow,2,2,0,0
+4,9,Golden Crossbow,2,2,0,0
+4,10,Arquebus,2,2,0,0
+4,11,Light Crossbow,2,3,0,0
+4,12,Serpent Crossbow,2,3,0,0
+4,13,Legendary Crossbow,2,3,0,0
+4,14,Dragon Crossbow,2,3,0,0
+4,15,Bolts,1,1,0,0
+4,16,Shadow Crossbow,2,4,0,0
+4,17,Giant Bow,2,4,0,0
+4,18,Archangel Crossbow,2,3,0,0
+4,19,GreatRain Crossbow,2,4,0,0
+5,0,Skull Staff,1,3,0,0
+5,1,Angelic Staff,2,3,0,0
+5,2,Serpent Staff,2,3,0,0
+5,3,Lightning Staff,2,4,0,0
+5,4,Gorgon Staff,2,4,0,0
+5,5,Legendary Staff,1,4,0,0
+5,6,Resurrection Staff,1,4,0,0
+5,7,Chaos Lightning Staff,2,4,0,0
+5,8,Unicorn Staff,2,4,0,0
+5,9,Crystal Staff,1,4,0,0
+5,10,Archangel Staff,1,4,0,0
+5,11,Kundun Staff,1,4,0,0
+6,0,Round Shield,2,2,0,0
+6,1,Horn Shield,2,2,0,0
+6,2,Kite Shield,2,2,0,0
+6,3,Fairy Shield,2,2,0,0
+6,4,Buckler,2,2,0,0
+6,5,Dragon Slayer Shield,2,2,0,0
+6,6,Skull Shield,2,2,0,0
+6,7,Spike Shield,2,2,0,0
+6,8,Tower Shield,2,2,0,0
+6,9,Iron Shield,2,2,0,0
+6,10,Round Shield,2,2,0,0
+6,11,Serpent Shield,2,2,0,0
+6,12,Bronze Shield,2,2,0,0
+6,13,Chaos Shield,2,2,0,0
+6,16,Elemental Shield,2,2,0,0
+6,14,Legendary Shield,2,3,0,0
+6,15,Grand Soul Shield,2,3,0,0
+7,17,Phoenix Helm,2,2,0,0
+8,17,Phoenix Armor,2,3,0,0
+9,17,Phoenix Pants,2,2,0,0
+10,17,Phoenix Gloves,2,2,0,0
+11,17,Phoenix Boots,2,2,0,0
+7,18,Soul Helm,2,2,0,0
+8,18,Soul Armor,2,3,0,0
+9,18,Soul Pants,2,2,0,0
+10,18,Soul Gloves,2,2,0,0
+11,18,Soul Boots,2,2,0,0
+7,19,Divine Helm,2,2,0,0
+8,19,Divine Armor,2,3,0,0
+9,19,Divine Pants,2,2,0,0
+10,19,Divine Gloves,2,2,0,0
+11,19,Divine Boots,2,2,0,0
+8,20,Thunder Armor,2,3,0,0
+9,20,Thunder Pants,2,2,0,0
+10,20,Thunder Gloves,2,2,0,0
+11,20,Thunder Boots,2,2,0,0
+7,0,Bronze Helm,2,2,0,0
+8,0,Bronze Armor,2,2,0,0
+9,0,Bronze Pants,2,2,0,0
+10,0,Bronze Gloves,2,2,0,0
+11,0,Bronze Boots,2,2,0,0
+7,1,Dragon Helm,2,2,0,0
+8,1,Dragon Armor,2,3,0,0
+9,1,Dragon Pants,2,2,0,0
+10,1,Dragon Gloves,2,2,0,0
+11,1,Dragon Boots,2,2,0,0
+7,2,Pad Helm,2,2,0,0
+8,2,Pad Armor,2,2,0,0
+9,2,Pad Pants,2,2,0,0
+10,2,Pad Gloves,2,2,0,0
+11,2,Pad Boots,2,2,0,0
+7,3,Legendary Helm,2,2,0,0
+8,3,Legendary Armor,2,2,0,0
+9,3,Legendary Pants,2,2,0,0
+10,3,Legendary Gloves,2,2,0,0
+11,3,Legendary Boots,2,2,0,0
+7,4,Bone Helm,2,2,0,0
+8,4,Bone Armor,2,2,0,0
+9,4,Bone Pants,2,2,0,0
+10,4,Bone Gloves,2,2,0,0
+11,4,Bone Boots,2,2,0,0
+7,5,Leather Helm,2,2,0,0
+8,5,Leather Armor,2,3,0,0
+9,5,Leather Pants,2,2,0,0
+10,5,Leather Gloves,2,2,0,0
+11,5,Leather Boots,2,2,0,0
+7,6,Scale Helm,2,2,0,0
+8,6,Scale Armor,2,2,0,0
+9,6,Scale Pants,2,2,0,0
+10,6,Scale Gloves,2,2,0,0
+11,6,Scale Boots,2,2,0,0
+7,7,Sphinx Helm,2,2,0,0
+8,7,Sphinx Armor,2,3,0,0
+9,7,Sphinx Pants,2,2,0,0
+10,7,Sphinx Gloves,2,2,0,0
+11,7,Sphinx Boots,2,2,0,0
+7,8,Brass Helm,2,2,0,0
+8,8,Brass Armor,2,2,0,0
+9,8,Brass Pants,2,2,0,0
+10,8,Brass Gloves,2,2,0,0
+11,8,Brass Boots,2,2,0,0
+7,9,Plate Helm,2,2,0,0
+8,9,Plate Armor,2,2,0,0
+9,9,Plate Pants,2,2,0,0
+10,9,Plate Gloves,2,2,0,0
+11,9,Plate Boots,2,2,0,0
+7,10,Vine Helm,2,2,0,0
+8,10,Vine Armor,2,2,0,0
+9,10,Vine Pants,2,2,0,0
+10,10,Vine Gloves,2,2,0,0
+11,10,Vine Boots,2,2,0,0
+7,11,Silk Helm,2,2,0,0
+8,11,Silk Armor,2,2,0,0
+9,11,Silk Pants,2,2,0,0
+10,11,Silk Gloves,2,2,0,0
+11,11,Silk Boots,2,2,0,0
+7,12,Wind Helm,2,2,0,0
+8,12,Wind Armor,2,2,0,0
+9,12,Wind Pants,2,2,0,0
+10,12,Wind Gloves,2,2,0,0
+11,12,Wind Boots,2,2,0,0
+7,13,Spirit Helm,2,2,0,0
+8,13,Spirit Armor,2,2,0,0
+9,13,Spirit Pants,2,2,0,0
+10,13,Spirit Gloves,2,2,0,0
+11,13,Spirit Boots,2,2,0,0
+7,14,Guardian Helm,2,2,0,0
+8,14,Guardian Armor,2,2,0,0
+9,14,Guardian Pants,2,2,0,0
+10,14,Guardian Gloves,2,2,0,0
+11,14,Guardian Boots,2,2,0,0
+8,15,Unicorn Armor,2,3,0,0
+9,15,Unicorn Pants,2,2,0,0
+10,15,Unicorn Gloves,2,2,0,0
+11,15,Unicorn Boots,2,2,0,0
+7,16,Black Dragon Helm,2,2,0,0
+8,16,Black Dragon Armor,2,3,0,0
+9,16,Black Dragon Pants,2,2,0,0
+10,16,Black Dragon Gloves,2,2,0,0
+11,16,Black Dragon Boots,2,2,0,0
+12,7,Whirl Cutting Skill,1,1,0,0
+12,12,Hell Blast Orb,1,1,0,0
+12,13,Unilia Attack Orb,1,1,0,0
+12,14,Inner Strength Orb,1,1,0,0
+12,16,Fire Slash Orb,1,1,0,0
+12,17,Penetration Orb,1,1,0,0
+12,18,Ice Age Orb,1,1,0,0
+12,19,Death Stab Orb,1,1,0,0
+12,21,Scroll of FireBurst,1,2,0,0
+12,22,Scroll of Summon,1,2,0,0
+12,23,Scroll of Add Critical DMG,1,2,0,0
+12,24,Scroll of Electric Spark,1,2,0,0
+12,8,Healing Orb,1,1,0,0
+12,9,Advanced Defense Orb,1,1,0,0
+12,10,Advanced Damage Orb,1,1,0,0
+12,11,Summon Goblin Orb,1,1,1,0
+12,11,Summon Golem Orb,1,1,1,1
+12,11,Summon Assassin Orb,1,1,1,2
+12,11,Summon Yeti Orb,1,1,1,3
+12,11,Summon Dark Knight Orb,1,1,1,4
+12,11,Summon Bali Orb,1,1,1,5
+12,11,Summon Soldier Orb,1,1,1,6
+13,0,Guardian Angel,1,1,0,0
+13,1,Satan,1,1,0,0
+13,2,Horn of Unilia,1,1,0,0
+13,3,Dinorant,1,1,0,0
+13,4,Dark Horse,1,1,0,0
+13,5,Dark Spirit,1,1,0,0
+13,6,Fang of Dark Wolf,1,1,0,0
+13,20,Wizards Ring,1,1,0,0
+13,8,Ring of Ice,1,1,0,0
+13,9,Ring of Poison,1,1,0,0
+13,12,Pendant of Lightning,1,1,0,0
+13,13,Pendant of Fire,1,1,0,0
+13,10,Ring of Bludge Dragon Transformation,1,1,1,0
+13,10,Ring of Giant Transformation,1,1,1,1
+13,10,Ring of Skeleton Transformation,1,1,1,2
+13,10,Ring of Poison Bull Fighter Transformation,1,1,1,3
+13,10,Ring of Cursed Wizard Transformation,1,1,1,4
+13,10,Ring of Death Cow Transformation,1,1,1,5
+13,14,Blue Feather,1,2,0,0
+13,15,Blue Pearl,1,2,0,0
+13,16,Blood Scroll,1,2,0,0
+13,17,Blood Fang,1,2,0,0
+13,18,Invisible Cloak,2,2,0,0
+13,19,Mini Angelic Staff,1,2,0,0
+13,29,Armor of Guardman,2,4,0,0
+14,0,Apple,1,1,0,0
+14,1,Small Healing Potion,1,1,0,0
+14,2,Medium Healing Potion,1,1,0,0
+14,3,Large Healing Potion,1,1,0,0
+14,4,Small Mana Potion,1,1,0,0
+14,5,Medium Mana Potion,1,1,0,0
+14,6,Large Mana Potion,1,1,0,0
+14,8,Antidote,1,1,0,0
+14,9,Alcohol,1,2,0,0
+14,10,Town Teleport,1,2,0,0
+14,11,Box Of Luck,1,1,1,0
+14,11,Star Of Christmas,1,1,1,1
+14,11,Sack of Magic,1,1,1,2
+14,11,Heart of Love,1,1,1,3
+14,11,RedBox no name,1,1,1,4
+14,11,Silver Medal,1,1,1,5
+14,11,Gold Medal,1,1,1,6
+14,11,Box of Heaven,1,1,1,7
+14,11,Box of Kundun+1,1,1,1,8
+14,11,Box of Kundun+2,1,1,1,9
+14,11,Box of Kundun+3,1,1,1,10
+14,11,Box of Kundun+4,1,1,1,11
+14,11,Box of Kundun+5,1,1,1,12
+14,12,Heart,1,1,0,0
+12,15,Jewel of Chaos,1,1,0,0
+14,13,Jewel of Bless,1,1,0,0
+14,14,Jewel of Soul,1,1,0,0
+14,16,Jewel of Life,1,1,0,0
+14,17,Devil Eye,1,1,0,0
+14,18,Devil Square Key,1,1,0,0
+14,20,Love Potion,1,1,0,0
+14,21,Rena,1,1,0,0
+14,22,Jewel of Creation,1,1,0,0
+14,23,King's Book,1,1,0,0
+14,24,Lost Sword,1,2,0,0
+14,25,Elf Tear,1,1,0,0
+14,26,Soul of Prophet,1,1,0,0
+14,27,Ancient Metal,1,1,0,0
+14,28,Lost Map,1,2,0,0
+14,29,Sign of Kudun,1,1,0,0
+15,0,Poison Scroll,1,2,0,0
+15,1,Meteorite Scroll,1,2,0,0
+15,2,Lightning Scroll,1,2,0,0
+15,3,Fireball Scroll,1,2,0,0
+15,4,Flame Scroll,1,2,0,0
+15,5,Teleport Scroll,1,2,0,0
+15,6,Ice Scroll,1,2,0,0
+15,7,Twister Scroll,1,2,0,0
+15,8,Evil Spirits Scroll,1,2,0,0
+15,9,Hellfire Scroll,1,2,0,0
+15,10,Power Wave Scroll,1,2,0,0
+15,11,Aqua Beam Scroll,1,2,0,0
+15,12,Blast Scroll,1,2,0,0
+15,13,Inferno Scroll,1,2,0,0
+15,14,Mass Teleport Scroll,1,2,0,0
+15,15,Mana Shield Scroll,1,2,0,0
+15,16,Scroll of Decay,1,2,0,0
+15,17,Scroll of Ice Storm,1,2,0,0
+15,18,Scroll of Nova,1,2,0,0
